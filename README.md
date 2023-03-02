@@ -1,16 +1,29 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Hyungjin%20Chung&desc=@KAIST&descAlign=71&descAlignY=63&fontSize=70)
 
-<!--
-**HJ-harry/HJ-harry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<br />
 
-Here are some ideas to get you started:
+😄 Hello, I'm Hyungjin Chung, Ph.D student in BISPL, Korea Advanced Inst. of Science & Technology (KAIST).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+:punch: Diffusion models for inverse problems enthusiast. Check out my recent works and repositories!
+
+<br />
+
+#
+## Recent activities
+<br />
+<div align=center>
+<a>
+<img align="center" src="https://github-readme-stats-jeongsol-kim.vercel.app/api/top-langs/?username=HJ-harry&layout=compact&theme=dracula" width="45%">
+<img align="center" src="https://github-readme-stats-jeongsol-kim.vercel.app/api?username=HJ-harry&show_icons=true&theme=dracula" width="45%">
+</a>
+</div>
+
+<br />
+
+#
+
+
+<div />
