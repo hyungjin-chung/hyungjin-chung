@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=Hyungjin%20Chung&desc=@KAIST&descAlign=71&descAlignY=63&fontSize=70)
-
 #
 ## Recent activities
 <br />
